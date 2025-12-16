@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Elf Workshop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <h1>🧝 Elf Workshop</h1>
+  <p>The elves are hard at work making toys and wrapping gifts.</p>
+</div>
+</body>
+</html>
