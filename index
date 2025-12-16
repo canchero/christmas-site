@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Christmas Cheer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>🎄 Merry Christmas 🎄</h1>
+  <p>Warm wishes and holiday cheer</p>
+</header>
+
+<div class="container">
+  <p>
+    Christmas is a season of joy, kindness, and a little bit of magic.
+    Enjoy the lights, the warmth, and the spirit of the holidays.
+  </p>
+
+  <p class="secret">
+    Some Christmas magic is hidden… only those who know where to look will find it.
+  </p>
+</div>
+
+</body>
+</html>
