@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>North Pole</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <h1>🎅 The North Pole</h1>
+  <p>You’ve found the hidden North Pole, where Christmas magic begins.</p>
+</div>
+</body>
+</html>
