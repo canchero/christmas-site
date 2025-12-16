@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Santa's Vault</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <h1>🎁 Santa’s Vault</h1>
+  <p>The Naughty and Nice lists are kept safely inside.</p>
+</div>
+</body>
+</html>
