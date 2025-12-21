@@ -4,6 +4,9 @@ body {
   background: linear-gradient(#0b3d2e, #145a32);
   color: white;
   text-align: center;
+  p {
+    font-size: 30px;
+    }
 }
 
 header {
@@ -13,9 +16,6 @@ header {
 
 h1 {
   font-size: 3rem;
-}
-p {
-    font-size: 30px;
 }
 .container {
   max-width: 800px;
