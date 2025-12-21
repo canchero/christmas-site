@@ -14,7 +14,9 @@ header {
 h1 {
   font-size: 3rem;
 }
-
+p {
+  font-size: 5rem;
+}
 .container {
   max-width: 800px;
   margin: auto;
